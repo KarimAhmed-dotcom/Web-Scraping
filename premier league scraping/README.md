@@ -1,5 +1,7 @@
 # Premier League Web Scraping
 
+You can visit the site : https://fbref.com/en/comps/9/2020-2021/shooting/2020-2021-Premier-League-Stats
+
 This is a Python script that scrapes data from the Premier League website using BeautifulSoup and requests libraries. The script retrieves the latest standings, fixtures, and results for the Premier League and saves the data to a CSV file.
 
 
