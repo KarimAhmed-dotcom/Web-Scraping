@@ -1,5 +1,7 @@
 # Wuzzuf Web Scraping
 
+You can visit site : https://wuzzuf.net/search/jobs/?a=navbg&q=data%20analyst&start=
+
 This is a Python script that scrapes job postings data from the Wuzzuf website using BeautifulSoup and requests libraries. The script retrieves job titles, company names, locations, and job descriptions for various job listings and saves the data to a CSV file.
 
 ## Clone
